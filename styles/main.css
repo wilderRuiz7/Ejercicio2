@@ -64,4 +64,17 @@ width: 553px;
 height: 350px;
 background-color: black;
 }
- main aside li{ }
+ main aside li{
+     width:  150px;
+     height: 315px;
+     background-color: yellow;
+     display: inline-block;
+     margin: 15px;
+  }
+  main aside li nav{
+      width: 50px;
+      height: 30px;
+      background-color: blue;
+      margin: 5px;
+
+  }
