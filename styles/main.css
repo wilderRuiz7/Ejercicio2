@@ -4,5 +4,64 @@
 }
 main{
     background-color: lightgreen;
-    margin: 80px 0px 0px 100px;
+    width: 625px;
+    margin: auto;
+    padding: 15px 20px 10px 20px;
 }
+
+nav{
+  background-color: #FF1744;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: #0F0E0E(8, 8, 8);
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+  }
+  main article{
+      margin: 0px 2px 0px 2px;
+    width: 200px;
+    height: 200px;
+    background-color: #344696;
+    display: inline-block;
+  }
+  main article div{
+    width: 200px;
+    height: 200px;
+    background-color: #D1DB3B;
+    display: inline-block;
+    border-radius: 50%;
+  }
+main footer section {
+    margin: 2px 6px 2px 6px;
+    width: 240px;
+    height: 240px;
+    background-color: #C42245;
+    display: inline-block;
+    
+    
+}
+main footer section aside{
+    width: 240px;
+    height: 240px;
+    background-color: #CED498;
+    display: inline-block;
+    border-radius: 50%;
+}    
+main footer{
+    margin: 0px 50px 0px 50px;
+    
+}
+main aside{
+width: 553px;
+height: 350px;
+background-color: black;
+}
+ main aside li{ }
